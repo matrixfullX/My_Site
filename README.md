@@ -1,2 +1,2 @@
-# My_Site
+# MySite
 Django Personal Blog
